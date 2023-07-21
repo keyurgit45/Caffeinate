@@ -52,8 +52,12 @@ caffeinate.py
 
 9. **Cross-Platform Support:** While the initial implementation may be focused on one operating system (e.g., macOS, Linux, or Windows), expanding support to multiple platforms would increase the program's reach and user base.
 
-## Contribution
 
+## FAQ: Why should I use 'Caffeinate' instead of simply adjusting my system's screen timeout settings?
+
+Answer:  While adjusting screen timeout settings in the system can be an effective way to prevent the system from going into sleep mode, 'Caffeinate' offers several advantages for specific use cases. It provides temporary control over the system's wake-up behavior without permanently altering global power settings. Additionally, 'Caffeinate' allows customization of the interval between wake-up actions and offers transparent notification when activated or deactivated. Users can use 'Caffeinate' for task-specific wake-up needs, ensuring uninterrupted workflows without the need for extensive system configuration changes.
+
+## Contribution
 Contributions are welcome! If you have any ideas, bug fixes, or feature suggestions, feel free to open an issue or submit a pull request.
 
 ## License
